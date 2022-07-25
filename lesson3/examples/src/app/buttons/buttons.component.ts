@@ -13,4 +13,10 @@ export class ButtonsComponent implements OnInit {
 
    ngOnInit() { }
 
+   // changeStatus (inactive: string): boolean {
+   //    if (inactive === "false") {
+   //       inactive === "true";
+   //    }
+   // }
+
 }
