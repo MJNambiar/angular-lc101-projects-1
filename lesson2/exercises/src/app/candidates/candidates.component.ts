@@ -31,6 +31,10 @@ export class CandidatesComponent implements OnInit {
   }
 };
 
+clearList (){
+  this.candidates = [];
+}
+
 
   // BONUS: Code the changeMissionName function here:
 
